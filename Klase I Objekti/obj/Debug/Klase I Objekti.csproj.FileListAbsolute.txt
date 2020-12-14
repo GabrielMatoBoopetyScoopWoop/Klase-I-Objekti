@@ -1,0 +1,10 @@
+C:\Users\Mato\source\repos\Klase I Objekti\Klase I Objekti\bin\Debug\Klase I Objekti.exe.config
+C:\Users\Mato\source\repos\Klase I Objekti\Klase I Objekti\bin\Debug\Klase I Objekti.exe
+C:\Users\Mato\source\repos\Klase I Objekti\Klase I Objekti\bin\Debug\Klase I Objekti.pdb
+C:\Users\Mato\source\repos\Klase I Objekti\Klase I Objekti\obj\Debug\Klase I Objekti.csprojAssemblyReference.cache
+C:\Users\Mato\source\repos\Klase I Objekti\Klase I Objekti\obj\Debug\Klase_I_Objekti.Form1.resources
+C:\Users\Mato\source\repos\Klase I Objekti\Klase I Objekti\obj\Debug\Klase_I_Objekti.Properties.Resources.resources
+C:\Users\Mato\source\repos\Klase I Objekti\Klase I Objekti\obj\Debug\Klase I Objekti.csproj.GenerateResource.cache
+C:\Users\Mato\source\repos\Klase I Objekti\Klase I Objekti\obj\Debug\Klase I Objekti.csproj.CoreCompileInputs.cache
+C:\Users\Mato\source\repos\Klase I Objekti\Klase I Objekti\obj\Debug\Klase I Objekti.exe
+C:\Users\Mato\source\repos\Klase I Objekti\Klase I Objekti\obj\Debug\Klase I Objekti.pdb
